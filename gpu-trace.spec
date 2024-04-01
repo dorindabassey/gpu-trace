@@ -37,5 +37,8 @@ export SYSTEMD_SERVICE_PATH=/usr/lib/systemd
 
 
 %changelog
+* Sun Mar 31 2024 Dorinda Bassey <dbassey@redhat.com> - 2.12
+- update to new version
+
 * Fri Jan 14 2022 Dorinda Bassey <dbassey@redhat.com> - 2.7-1
 - Initial Packaged Version
